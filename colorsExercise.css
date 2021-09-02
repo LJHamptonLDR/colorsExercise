@@ -1,27 +1,37 @@
 h1 {
     color: red;
+    /* Bonus 1 */
+    background-color: rgb(238, 193, 193);
+    /* OR "background: red;" */
 }
 
 h2 {
     color: #FFA500;
+    background-color: rgb(235, 217, 183);
 }
 
 h3 {
-    color: #FF0 
+    color: #FF0;
+    background-color: rgb(240, 240, 186);
 }
 
 h4 {
-    color: #00800050
+    color: #00800050;
+    background-color: #b5dab5;
 }
 
 h5 {
-    color: #0ff8 
+    color: #0ff8;
+    background-color: rgb(174, 236, 241);
 }
 
 h6 {
     color: rgb(0, 0, 100); 
+    background-color: rgb(162, 131, 233);
 }
 
 p {
-    color: rgba(150, 1, 200, .80)
+    color: rgba(150, 1, 200, .80);
+    background-color: rgb(212, 177, 245);
 }
+
